@@ -3,3 +3,7 @@
 ################################################################################
 
 /LanguageFeatures/LanguageFeatures/bin
+/LanguageFeatures/.vs/LanguageFeatures/v14
+/LanguageFeatures/.vs/config
+/LanguageFeatures/LanguageFeatures/obj/Debug
+/LanguageFeatures/LanguageFeatures/LanguageFeatures.csproj.user
