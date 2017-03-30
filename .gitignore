@@ -19,3 +19,5 @@
 /EssentialTools/EssentialTools/bin
 /EssentialTools/EssentialTools/obj/Debug
 /EssentialTools/EssentialTools/EssentialTools.csproj.user
+/EssentialTools/EssentialTools.Tests/bin/Debug
+/EssentialTools/EssentialTools.Tests/obj/Debug
