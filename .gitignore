@@ -21,3 +21,11 @@
 /EssentialTools/EssentialTools/EssentialTools.csproj.user
 /EssentialTools/EssentialTools.Tests/bin/Debug
 /EssentialTools/EssentialTools.Tests/obj/Debug
+/SportsStore/.vs
+/SportsStore/SportsStore.WebUI/SportsStore.WebUI.csproj.user
+/SportsStore/SportsStore.WebUI/bin
+/SportsStore/SportsStore.WebUI/obj/Debug
+/SportsStore/SportsStore.UnitTests/bin/Debug
+/SportsStore/SportsStore.UnitTests/obj/Debug
+/SportsStore/SportsStore.Domain/bin/Debug
+/SportsStore/SportsStore.Domain/obj/Debug
