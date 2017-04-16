@@ -29,3 +29,7 @@
 /SportsStore/SportsStore.UnitTests/obj/Debug
 /SportsStore/SportsStore.Domain/bin/Debug
 /SportsStore/SportsStore.Domain/obj/Debug
+/Filters/.vs
+/Filters/Filters/bin
+/Filters/Filters/obj/Debug
+/Filters/packages
